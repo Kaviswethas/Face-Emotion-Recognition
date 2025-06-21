@@ -42,16 +42,16 @@ If you could't find it :
 - you can find the IDLE
 - Now again right click on the IDLE
 - select `open file location`
-- Now find the 'Lib' file and enter into the file
-- find the 'site-packages' file and enter into it
-- Now get into the 'facial_emotion_recognition' file
-- now you can see the 'facial_emotion_recognition.py' file
+- Now find the `Lib` file and enter into the file
+- find the `site-packages` file and enter into it
+- Now get into the `facial_emotion_recognition` file
+- now you can see the `facial_emotion_recognition.py` file
 
 Open the facial_emotion_recognition.py file
 
 ## 🔄 Replace this line:
 
-```Python
+```bash
 
 model_dict = torch.load(os.path.join(os.path.dirname(__file__), 'model', 'model.pkl'))
 ```
