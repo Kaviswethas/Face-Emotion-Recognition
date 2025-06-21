@@ -54,7 +54,7 @@ Open the facial_emotion_recognition.py file
 
 ## 🔄 Replace this line:
 
-```bash
+```python
 
 model_dict = torch.load(os.path.join(os.path.dirname(__file__), 'model', 'model.pkl'))
 ```
