@@ -18,10 +18,13 @@ This project uses a webcam to detect human faces and recognize their emotions in
 # 📦 Installation
 
 Run the following command in your terminal
-Bash
+```Bash
 
 pip install facial-emotion-recognition
+```
+```bash
 pip install opencv-python torch
+```
 
 ⚠️ Note: 
 > The Custom Modification mentioned below is only possible after installing the facial_emotion_recognition library.  
