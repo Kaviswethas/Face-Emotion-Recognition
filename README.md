@@ -38,14 +38,14 @@ File Path looks like C:\Users\user\AppData\Local\Programs\Python\Python39\Lib\si
 If you could't find it :
 - press windows key, search for IDLE
 - right click on IDLE
-- select ***open file location***
+- select 'open file location'
 - you can find the IDLE
 - Now again right click on the IDLE
-- select ***open file location***
-- Now find the ***Lib*** file and enter into the file
-- find the ***site-packages*** file and enter into it
-- Now get into the ***facial_emotion_recognition*** file
-- now you can see the ***facial_emotion_recognition.py*** file
+- select 'open file location'
+- Now find the 'Lib' file and enter into the file
+- find the 'site-packages' file and enter into it
+- Now get into the 'facial_emotion_recognition' file
+- now you can see the 'facial_emotion_recognition.py' file
 
 Open the facial_emotion_recognition.py file
 
